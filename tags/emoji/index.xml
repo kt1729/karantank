@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>emoji on My blog</title>
+    <title>emoji on Karan Tank</title>
     <link>https://kt1729.github.io/karantank/tags/emoji/</link>
-    <description>Recent content in emoji on My blog</description>
+    <description>Recent content in emoji on Karan Tank</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kt1729.github.io/karantank/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
-      <link>https://kt1729.github.io/karantank/post/emoji-support/</link>
+      <link>https://kt1729.github.io/karantank/post/reference/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://kt1729.github.io/karantank/post/emoji-support/</guid>
+      <guid>https://kt1729.github.io/karantank/post/reference/emoji-support/</guid>
       
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
       
